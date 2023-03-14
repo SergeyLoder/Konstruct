@@ -1,0 +1,10 @@
+header {
+ background-image: url("../images/logo.svg");
+ background-repeat: no-repeat;
+background-size: cover;
+height: 54%;
+width: 100%;
+}
+h1 {
+    text-align: center;
+}

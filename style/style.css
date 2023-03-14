@@ -3,3 +3,37 @@
   padding: 0;
   box-sizing: border-box;
 }
+body {
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 22px;
+  width: 1438px;
+}
+header {
+  background-image: url("../images/logo.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 769px;
+  padding: 41px 0 71px 0;
+  color: #ffffff;
+}
+
+.logo {
+  width: 102px;
+  margin: 0 auto 306px;
+}
+h1 {
+  text-align: center;
+}
+.logo_text {
+  font-size: 16px;
+  text-align: center;
+  margin-bottom: 221px;
+}
+.logo_bottom {
+  font-size: 11px;
+  text-align: center;
+}
